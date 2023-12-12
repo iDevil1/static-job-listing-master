@@ -65,6 +65,9 @@ body {
   }
 }
 @media (width < 650px) {
+  .background-image {
+    background-image: url(./images/bg-header-mobile.svg);
+  }
   .all-container {
     gap: 50px;
     margin-top: max(2%, 45px);
